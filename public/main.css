@@ -1,0 +1,17 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  background-color: #f5f5f5;
+  font-family: 'Roboto', sans-serif;
+  color: #444444;
+  font-weight: 400;
+}
+
+#root {
+  width: 370px;
+  margin: 0 auto;
+}

@@ -1,0 +1,15 @@
+{
+  "short_name": "Photo Album",
+  "name": "Photo Album Assignment",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#444444",
+  "background_color": "#f6f6f6"
+}
